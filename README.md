@@ -33,5 +33,3 @@ Building on the Data Mining fundamentals course, this course deepens the theory 
 - Model Validation
 
 The course consists of a lecture together with accompanying practical exercises as well as student team projects. In the exercises the participants will gather initial expertise in applying state of the art data mining tools on realistic data sets.
-
-Like in the previous years, participants will take part in the annual Data Mining Cup (DMC), an international student competition in data mining, as part of the project work. In addition to the DMC submission, the approaches and results of the project have to be compiled into a written project report, and presented in a plenary session.
